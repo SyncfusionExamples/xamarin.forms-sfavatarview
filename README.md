@@ -6,7 +6,7 @@ For know more details about AvatarView:https://www.syncfusion.com/xamarin-ui-con
 
 AvatarView user guide documentation:https://help.syncfusion.com/xamarin/avatar-view/getting-started
 
-# Getting started with SfAvatarView
+## Getting started with SfAvatarView
 This section explains the steps required to work with the SfAvatarView control for Xamarin.Forms.
 
 Adding SfAvatarView reference
@@ -24,7 +24,7 @@ Syncfusion also provides Xamarin Toolbox. Using this toolbox, you can drag the S
 
 If you prefer to manually reference the assemblies instead of referencing from NuGet, add the following assemblies in respective projects.
 
-# Creating an SfAvatarView control
+## Creating an SfAvatarView control
 The SfAvatarView control is configured entirely in C# or in XAML. The following steps explain how to create an SfAvatarView control and configure its elements.
 
 ## Adding namespace for referred assemblies
